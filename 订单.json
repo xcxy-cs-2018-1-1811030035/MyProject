@@ -1,0 +1,38 @@
+Order : {
+
+​			"my-Consumption-History": "35",
+
+​			" my-Consume-Money ": "2800",
+
+​			" order-history ": [
+
+​										{
+
+​           								 "Historyorder-Id"："Y5648418",
+
+​											 "order-Create-Time" : "2009-05-01",
+
+​											 "orderCreater" : "小飞哥",
+
+​           								 " policy-DetailModel ":{
+
+​                    																 "orderNumber" : "366189464464",
+
+​																					 "order-EffectiveTime" : "2009-05-01",
+
+​																					 "order-Recevier" : "张闪电",
+
+​                    																 "order-RecevingTime" : “2009-05-02",
+
+​                     																"order-type" : "服务类",
+
+​                    																 "order-EffectiveState" : "已接单",
+
+​                     																 "order-Price" : "200",
+
+​                     																 "order-PriceSpecifications" : "50/Hours",
+
+​             					       }
+​            				 }
+​        	]
+}

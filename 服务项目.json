@@ -1,0 +1,89 @@
+Sever Project : {
+
+​					"project-type" : ["技术服务",
+
+​											"卫生服务",
+
+​											"教育服务",
+
+​											"环境服务",
+
+​											"运输服务",],
+
+​					"sever-order" :  [
+
+​										{
+
+​           								 "Historyorder-Id"："Y5648418",
+
+​											 "order-Create-Time" : "2009-05-01",
+
+​											 "orderCreater" : "小飞哥",
+
+​           								 " policy-DetailModel ":{
+
+​                    																 "orderNumber" : "366189464464",
+
+​																					 "order-EffectiveTime" : "2009-05-01",
+
+​																					 "order-Recevier" : "张闪电",
+
+​                    																 "order-RecevingTime" : “2009-05-02",
+
+​                     																"order-type" : "服务类",
+
+​                    																 "order-EffectiveState" : "已接单",
+
+​                     																 "order-Price" : "200",
+
+​                     																 "order-PriceSpecifications" : "50/Hours",
+
+​             					       }
+​            				 }
+​        		]
+
+​			"sever-comment" : [
+
+​						"Commenter-id" : "sc12321",
+
+​						"Commenter-name" : "爬墙的山虎",
+
+​						"Commenter-image" : "xxx.jpg",
+
+​						"Comment" : [
+
+​									{
+
+​										"name-Commented" : "张闪电",
+
+​										"Comment-time" : "2008-06-01 18:26:53",
+
+​										"Comment-content" : [
+
+​																			{
+
+​																				"content-type" [
+
+​																							{
+
+​																									"image" : "xx.jpg/.png/...",
+
+​																									"text" : "x师傅技术不错，效率高，而																												且人还帅",
+
+​																						}
+
+​																				]
+
+​												}
+
+​										]
+
+​						"content-like" : "666",
+
+​						"content-talk" : "内容谈论",
+
+​						}
+
+​				]
+
+}

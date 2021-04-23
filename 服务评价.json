@@ -1,0 +1,45 @@
+Sever Comment : {
+
+​					"Commenter-id" : "sc12321",
+
+​					"Commenter-name" : "爬墙的山虎",
+
+​					"Commenter-image" : "xxx.jpg",
+
+​					"Comment" : [
+
+​									{
+
+​										"name-Commented" : "张闪电",
+
+​										"Comment-time" : "2008-06-01 18:26:53",
+
+​										"Comment-content" : [
+
+​																			{
+
+​																				"content-type" [
+
+​																							{
+
+​																									"image" : "xx.jpg/.png/...",
+
+​																									"text" : "x师傅技术不错，效率高，而																												且人还帅",
+
+​																						}
+
+​																				]
+
+​													}
+
+​										]
+
+​						"content-like" : "666",
+
+​						"content-talk" : "内容谈论",
+
+​							}
+
+​					]
+
+}
